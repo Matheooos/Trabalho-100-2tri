@@ -1,0 +1,1 @@
+alert("Ao prosseguir você verá a verdade")
